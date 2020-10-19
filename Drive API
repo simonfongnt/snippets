@@ -1,5 +1,0 @@
-const DriveBaseUrl    = 'https://www.googleapis.com/';
-const DriveListUrl    = 'drive/v3/files?';
-const DriveReadUrl    = 'drive/v3/files/';
-const DriveWriteUrl   = 'upload/drive/v3/files/';
-const DriveRenameUrl  = 'https://content.googleapis.com/drive/v3/files/';
